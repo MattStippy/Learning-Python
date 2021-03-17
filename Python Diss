@@ -1,0 +1,12 @@
+my_input = input('Send a message')
+
+if (my_input == 'Python is good'):
+    print('Wrong')
+elif (my_input == 'Python is great'):
+    print("Very wrong")
+elif (my_input == 'Python is epic'):
+    print('Super wrong')
+elif (my_input == 'Python is the best programming language'):
+    print('Are you insane?')
+else:
+    print('Golang is better')
