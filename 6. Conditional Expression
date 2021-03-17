@@ -1,0 +1,13 @@
+Notes:
+
+Conditional Expressions: shows a relation of one variable or constant to another. Equals to true, false, 1, or 0
+Ex.
+var1 = 8
+boolean = var1 > 6
+
+Equal to: ==
+Not equal to: !=
+Greater than: >
+Lesser than: <
+Greater than or equal to: >=
+Less than or equal to: <=

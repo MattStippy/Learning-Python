@@ -1,0 +1,10 @@
+integer = 5
+float = 3.4
+string = "Hello World!"
+boolean = False
+
+Notes
+String: surrounded by quotation. Used to store data
+Integer: holds a number
+Floating Point Number: holds a number with decimal
+Boolean: holds either true or false (true = 1; false = 0)

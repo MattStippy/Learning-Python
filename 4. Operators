@@ -1,0 +1,16 @@
+Notes:
+Operators Examples:
+int1 = 8
+int2 = 16
+int3 = int1 + int2
+Return: simplifies functions
+Parentheses: deems priority
+Reassignment: (see example for now)
+Examples: (see exercise)
+    Explanation:
+        Line One translates to:
+            x = (5) * 6
+            x = 30
+
+        Line Two Translates to:
+            y = x / 8
